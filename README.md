@@ -11,7 +11,7 @@ This project was developed using the **MERN (MongoDB, Express.js, React.js, Node
 
 ---
 
-## 🧑‍💻 Under the supervision of:**  
+## 🧑‍💻 **Under the supervision of:**  
 - Ankita Das Debnath  
 - Sumit Kumar Sinha  
 
