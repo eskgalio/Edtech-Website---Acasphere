@@ -11,14 +11,7 @@ This project was developed using the **MERN (MongoDB, Express.js, React.js, Node
 
 ---
 
-## 🧑‍💻 **Contributors**  
-- Jyotirmoy Dutta (30101222057)  
-- Jayosree Mandal (30101222013)  
-- Mirza Jahir Abbas (30101222026)  
-- Anuska Ghosh (30101222083)  
-- Nripendra Nath Mahato (30101222088)  
-
-**Under the supervision of:**  
+## 🧑‍💻 Under the supervision of:**  
 - Ankita Das Debnath  
 - Sumit Kumar Sinha  
 
